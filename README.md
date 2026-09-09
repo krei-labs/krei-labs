@@ -4,7 +4,7 @@
 
 I'm a Computer Engineering student majoring in Machine Learning at Tanauan City College, with hands-on experience in full-stack web development, databases, and hardware-software integration. I enjoy building practical systems end-to-end and turning ideas into working software.
 
-📧 [christianmaranan0303@gmail.com](mailto:christianmaranan0303@gmail.com) · 🌐 [GitHub](https://github.com/your-username)
+📧 [christianmaranan0303@gmail.com](mailto:christianmaranan0303@gmail.com) · 🌐 [GitHub](https://github.com/krei-labs)
  
 ---
 
