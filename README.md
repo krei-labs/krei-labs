@@ -66,15 +66,6 @@
 
 #### 🎓 Academic & Engineering
 
-<div align="center">
-  <a href="https://github.com/krei-labs/public-announcement-management-system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=krei-labs&repo=public-announcement-management-system&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/krei-labs/library-management-system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=krei-labs&repo=library-management-system&theme=tokyonight&hide_border=true" />
-  </a>
-</div>
-
 **📢 [Public Announcement Management System (PAMS)](https://github.com/krei-labs/public-announcement-management-system)**
 A Computer Engineering thesis project — a Flask + SQLite web dashboard controlling a Raspberry Pi/Arduino campus PA system, with scheduled and emergency broadcasts, digital display rendering, TTS audio, and speaker-zone relay control.
 - Project Leader & full-stack developer — architected and built the software, then integrated it with the Raspberry Pi/Arduino hardware
@@ -88,12 +79,6 @@ A single-binary C++ console app that models a real library workflow — role-bas
 ---
 
 #### 💻 Full-Stack Web Apps
-
-<div align="center">
-  <a href="https://github.com/krei-labs/budget_buddy">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=krei-labs&repo=budget_buddy&theme=tokyonight&hide_border=true" />
-  </a>
-</div>
 
 **💰 [Budget Buddy](https://github.com/krei-labs/budget_buddy)**
 A Flask-based personal finance tracker with income/expense logging, live Chart.js dashboards, filtered Word (.docx) exports, an admin console, and a built-in support chatbot.
