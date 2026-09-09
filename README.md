@@ -114,11 +114,6 @@ A set of commissioned, interactive "gift site" experiences — canvas-based flow
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=krei-labs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krei-labs&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=krei-labs&theme=tokyonight&hide_border=true" />
 </div>
 
