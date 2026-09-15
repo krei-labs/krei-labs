@@ -101,7 +101,7 @@ A 7-topic C++ learning collection — OOP, arrays/structs, sorting & searching, 
 
 #### 🎨 Client & Creative Work
 
-**🏡 [Marci Metzger Homes](https://github.com/krei-labs/merci-metzger-realstate)**
+**🏡 [Marci Metzger Homes](https://github.com/krei-labs/merci-metzger-realestate)**
 A commissioned, responsive real-estate agent landing page for a Pahrump, NV Realtor — property search filters, photo gallery, services overview, and a lead-capture contact form.
 - **Stack:** HTML5 · hand-written CSS3 · Vanilla JS
 
